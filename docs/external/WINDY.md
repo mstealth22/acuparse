@@ -12,7 +12,8 @@
 1. Change enabled to true
 1. Add your Windy API ID and Key
 1. Get your ID from [https://stations.windy.com/stations](https://stations.windy.com/stations).
-    - **Note, this is your "ID" NOT "Station ID"**
+    - **Note, this is your `ID` NOT `Station ID`**
+1. If you have multiple Windy stations, enter your `station ID`. Default is 0.
 
 ## Webcam
 
